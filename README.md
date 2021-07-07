@@ -2,14 +2,14 @@
 
 ## To run  
 
-$ go run printerGo.go
+$ go run printer.go
 
 ## To build 
 
-$ go build printerGo.go
+$ go build printer.go
 
 $ ls
 
-printerGo    printerGo.go
+printer    printer.go
 
 We can then execute the built binary directly.
